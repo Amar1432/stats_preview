@@ -16,12 +16,14 @@
 body {
   background-color: hsl(233, 47%, 7%);
   font-family: "Inter", sans-serif;
+  max-width: 1440px;
+  max-height: 100vh;
 }
 .main {
   display: flex;
-  width: 75%;
-  height: 50vh;
-  margin: 25vh auto;
+  width: 80%;
+  height: 60vh;
+  margin: 20vh auto;
   background-color: hsl(244, 38%, 16%);
   font-size: 15px;
 }
@@ -42,7 +44,7 @@ body {
 .texts p {
   color: hsla(0, 0%, 100%, 0.75);
   line-height: 1.4;
-  margin-bottom: 40px;
+  margin-bottom: 60px;
 }
 
 .stats-text {
