@@ -22,8 +22,8 @@ body {
 .main {
   display: flex;
   width: 80%;
-  height: 60vh;
-  margin: 20vh auto;
+  height: 54vh;
+  margin: 23vh auto;
   background-color: hsl(244, 38%, 16%);
   font-size: 15px;
 }
